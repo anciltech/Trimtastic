@@ -11,6 +11,7 @@
 		0578CB9C29F0141A00FBFEC6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0578CB9B29F0141A00FBFEC6 /* ContentView.swift */; };
 		0578CB9E29F0141C00FBFEC6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0578CB9D29F0141C00FBFEC6 /* Assets.xcassets */; };
 		0578CBA229F0141C00FBFEC6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0578CBA129F0141C00FBFEC6 /* Preview Assets.xcassets */; };
+		0578CBAC29F0331600FBFEC6 /* FilmStrip.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0578CBAB29F0331600FBFEC6 /* FilmStrip.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		0578CB9D29F0141C00FBFEC6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0578CB9F29F0141C00FBFEC6 /* Trimtastic.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Trimtastic.entitlements; sourceTree = "<group>"; };
 		0578CBA129F0141C00FBFEC6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0578CBAB29F0331600FBFEC6 /* FilmStrip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilmStrip.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				0578CB9929F0141A00FBFEC6 /* TrimtasticApp.swift */,
 				0578CB9B29F0141A00FBFEC6 /* ContentView.swift */,
+				0578CBAB29F0331600FBFEC6 /* FilmStrip.swift */,
 				0578CB9D29F0141C00FBFEC6 /* Assets.xcassets */,
 				0578CB9F29F0141C00FBFEC6 /* Trimtastic.entitlements */,
 				0578CBA029F0141C00FBFEC6 /* Preview Content */,
@@ -113,6 +116,8 @@
 				Base,
 			);
 			mainGroup = 0578CB8D29F0141A00FBFEC6;
+			packageReferences = (
+			);
 			productRefGroup = 0578CB9729F0141A00FBFEC6 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -140,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0578CB9C29F0141A00FBFEC6 /* ContentView.swift in Sources */,
+				0578CBAC29F0331600FBFEC6 /* FilmStrip.swift in Sources */,
 				0578CB9A29F0141A00FBFEC6 /* TrimtasticApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
