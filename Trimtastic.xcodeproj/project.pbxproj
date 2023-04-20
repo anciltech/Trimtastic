@@ -24,7 +24,6 @@
 		0578CBA129F0141C00FBFEC6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0578CBAB29F0331600FBFEC6 /* FilmStrip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilmStrip.swift; sourceTree = "<group>"; };
 		05C205D529F1413100FBFEC6 /* docs.docc */ = {isa = PBXFileReference; lastKnownFileType = folder.documentationcatalog; path = docs.docc; sourceTree = "<group>"; };
-		05C205D729F1422900FBFEC6 /* ReadMe.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = ReadMe.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,7 +40,6 @@
 		0578CB8D29F0141A00FBFEC6 = {
 			isa = PBXGroup;
 			children = (
-				05C205D729F1422900FBFEC6 /* ReadMe.md */,
 				05C205D529F1413100FBFEC6 /* docs.docc */,
 				0578CB9829F0141A00FBFEC6 /* Trimtastic */,
 				0578CB9729F0141A00FBFEC6 /* Products */,
